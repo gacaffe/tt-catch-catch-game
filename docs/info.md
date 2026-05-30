@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Current state: jsut a cycling pattern shown in the 7-segment display.
 
+After reset the 7-segment display will have the  upper (chaser controller by machine) and bottom (runner controlled by player) segments lit on. The machine will move around the display the chaser and the player will control the runner with the analog joystick. The game ends when the chaser catch the runner
+    
 ## How to test
 
-Explain how to use your project
+Already explained above
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Current state: 7-segment LED display, clock push-button
+Future state:  7-segment LED display, clock push-button, 2 push-button to control the runner
